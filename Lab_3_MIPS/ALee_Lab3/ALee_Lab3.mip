@@ -1,0 +1,16 @@
+ALee_Lab3
+E:\College\DT021\DT021A4\CompArch3\Lab\Lab3\ALee_Lab3\
+Objects\
+1
+E:\College\DT021\DT021A4\CompArch3\Lab\Lab3\ALee_Lab3\ALee_taks1.s
+0
+0
+1
+minic
+0
+0
+0
+0
+1
+objcopy.exe -O srec ALee_Lab3.out ALee_Lab3.srec
+80020000 start

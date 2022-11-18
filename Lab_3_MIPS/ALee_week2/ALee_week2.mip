@@ -1,0 +1,16 @@
+ALee_week2
+C:\ALee_week2\
+Objects\
+1
+C:\ALee_week2\task_10.s
+0
+0
+1
+minic
+0
+0
+0
+0
+1
+objcopy.exe -O srec ALee_week2.out ALee_week2.srec
+80020000 start
