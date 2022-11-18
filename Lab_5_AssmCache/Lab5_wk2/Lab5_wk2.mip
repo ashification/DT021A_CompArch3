@@ -1,0 +1,22 @@
+Lab5_wk2
+E:\College\DT021A\DT021A4\CompArch3\Lab\Lab_5_AssmCache_P2\Lab5_wk2\
+Objects\
+1
+E:\College\DT021A\DT021A4\CompArch3\Lab\Lab_5_AssmCache_P2\Lab5_wk2\main.c
+1
+0
+2
+gcc
+minic
+2
+nostdinc
+msoft-float
+2
+N
+nostdlib
+1
+crt0.o
+0
+1
+objcopy.exe -O srec Lab5_wk2.out Lab5_wk2.srec
+80020000 start
